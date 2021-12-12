@@ -43,3 +43,10 @@ CONFIG_DRIVER_11N_SUPPORT=y
 CONFIG_DRIVER_11W_SUPPORT=y
 
 CONFIG_PACKAGE_luci-app-oled=y
+
+
+# some package for me
+CONFIG_PACKAGE_tmux=y
+CONFIG_PACKAGE_sudo=y
+CONFIG_PACKAGE_file=y
+CONFIG_PACKAGE_bind-dig=y
