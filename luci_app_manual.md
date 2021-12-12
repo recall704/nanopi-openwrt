@@ -3,6 +3,7 @@
 |              LuCI APP              |              用途               |
 | :--------------------------------  | :----------------------------- |
 |        luci-app-adbyby-plus        |       Adbyby广告屏蔽大师       |
+|        luci-app-linkease           |       易有云                   |
 |        luci-app-adguardhome        |    ADGuardHome广告屏蔽工具     |
 |         luci-app-airplay2          |     AirPlay2音频推送服务器     |
 |          luci-app-airwhu           |     锐捷802.1X认证客户端      |
